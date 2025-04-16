@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratham Agarwal (@pratham-011ag)
-- 👀 I’m interested in DSA and Machine Learning
-- 🌱 I’m currently learning Frontend and enhancing my DSA skills
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently focusing on implementing papers to enhance my ML skills
 - 💞️ I’m looking to collaborate on projects on ML
 - 📫 How to reach me : https://www.linkedin.com/in/pratham-agarwal-2335a0266/
 
