@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Pratham Agarwal (@pratham-011ag)
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently focusing on implementing papers to enhance my ML skills
-- 💞️ I’m looking to collaborate on projects on ML
-- 📫 How to reach me : https://www.linkedin.com/in/pratham-agarwal-2335a0266/
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="100" />
 </p>
